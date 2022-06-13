@@ -1,0 +1,49 @@
+.productss {
+    width: 1000px;
+    margin-left: 20%;
+    margin-top: 10px;
+    flex-direction: row-reverse;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+} 
+
+
+.products {
+    width: 230px;
+    display: inline-block;
+    margin: 10px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    font-size: 40px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+
+button {
+    height: 40px;
+    background-color: rgb(30, 144, 255);
+    border-radius: 30px;
+    box-sizing: border-box;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.link2 {
+    text-decoration: none;
+    color:black;
+}
+p{
+    font-size: 25px;
+}
